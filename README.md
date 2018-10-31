@@ -1,10 +1,6 @@
 # 2018fall
+個人網站file:///D:/github/test1/site-s40723211/content/index.html
 
+個人網誌
 
-http://mdecourse.github.io/2018fall/
-
-分組示範倉儲: https://github.com/scrum-1/scrum-1.github.io
-
-設定步驟: https://github.com/scrum-1/scrum-1.github.io/wiki
-
-cpgx 網站: https://cpgx.kmol.info
+個人簡報
