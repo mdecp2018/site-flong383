@@ -1,7 +1,7 @@
 # 2018fall
 個人網站 https://mdecp2018.github.io/site-s40723211/content/week4.html
 
-個人網誌 https://mdecp2018.github.io/site-s40723211/blog/index.html
+個人網誌
 
 個人簡報 https://mdecp2018.github.io/site-s40723211/reveal/index.html#/
 
