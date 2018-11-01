@@ -1,8 +1,9 @@
 .container {
   position: relative;
+  background-image:url(https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2017/04/blue/16903216-1-eng-GB/Blue_node_full_image_2.jpg);
 }
 header{
-  background: #ccc;
+  background-image:url(https://pbs.twimg.com/profile_images/964156588100587521/KwxByR6q_400x400.jpg);
   padding: 20px;
 }
 confmenu
