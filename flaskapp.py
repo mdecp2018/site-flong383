@@ -2064,7 +2064,7 @@ def syntaxhighlight():
 img {
     border:4px solid blue;
 }
-<style>
+</style>
 '''
 
 
