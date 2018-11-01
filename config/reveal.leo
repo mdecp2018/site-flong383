@@ -21,6 +21,12 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20181101144613.1" a="E"><vh>導入影片</vh>
+<v t="leo.20181101144632.1"><vh>影片內容</vh></v>
+</v>
+<v t="leo.20181101144609.1" a="E"><vh>導入影片</vh>
+<v t="leo.20181101144635.1"><vh>影片內容</vh></v>
+</v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -239,10 +245,7 @@ make.start()
 </t>
 <t tx="leo.20180827201621.4">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
-@others
-&lt;/html&gt;
-</t>
-<t tx="leo.20180827201621.5">&lt;head&gt;
+&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
 2018 Fall 分組網際簡報
@@ -275,9 +278,13 @@ make.start()
     &lt;![endif]--&gt;
 &lt;/head&gt;
 
-</t>
-<t tx="leo.20180827201621.6">&lt;body&gt;
+&lt;body&gt;
+&lt;div class="reveal"&gt;
 @others
+&lt;/html&gt;
+</t>
+<t tx="leo.20180827201621.5"></t>
+<t tx="leo.20180827201621.6">@others
 &lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -305,8 +312,7 @@ make.start()
 &lt;/body&gt;
 
 </t>
-<t tx="leo.20180827201621.7">&lt;div class="reveal"&gt;
-@others
+<t tx="leo.20180827201621.7">@others
 &lt;/div&gt;
 
 </t>
@@ -325,5 +331,33 @@ make.start()
 
 						
 </t>
+<t tx="leo.20181101144609.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181101144613.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181101144632.1">## Week1
+
+### 建立個人網站
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yRZYkqB0gQA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181101144635.1">## Week2
+
+### 如何管理 CMSimfly 作業倉儲之圖片框顏色更改
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ann7ilFtMzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
