@@ -17,13 +17,14 @@
 <v t="leo.20180827201621.2" a="E"><vh>@path ./../reveal</vh>
 <v t="leo.20180827201621.3" a="E"><vh>@clean index.html</vh>
 <v t="leo.20180827201621.4" a="E"><vh>html</vh>
-<v t="leo.20180827201621.5"><vh>head</vh></v>
-<v t="leo.20180827201621.6" a="E"><vh>body</vh>
-<v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20181101143107.1" a="E"><vh>導入影片</vh>
+<v t="leo.20181101143215.1"><vh>newHeadline</vh></v>
+</v>
+<v t="leo.20181101143109.1"><vh>導入影片</vh></v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -39,7 +40,9 @@
 </v>
 </v>
 </v>
-</v>
+<v t="leo.20180827201621.5"><vh>head</vh></v>
+<v t="leo.20180827201621.6" a="E"><vh>body</vh>
+<v t="leo.20180827201621.7"><vh>reveal div</vh></v>
 </v>
 </v>
 </v>
@@ -124,7 +127,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 40723211網際簡報
+<t tx="leo.20180827201621.10">### 40723211網際簡報
 
 ### 虎科大機械設計工程系
 
@@ -326,5 +329,24 @@ make.start()
 
 						
 </t>
+<t tx="leo.20181101143107.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181101143109.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181101143215.1"></t>
 </tnodes>
 </leo_file>
