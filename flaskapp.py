@@ -2119,7 +2119,7 @@ init_mathjax();
 -->
 <style>
 img {
-    border:5px solid blue;
+    border:4px solid blue;
 }
 </style>
 '''
